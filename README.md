@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Everyone 😄
 
 <!--
 **rafifcihuy/rafifcihuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![rafifcihuy](gif/28fu3vahl5tf1.gif)
+![rafifcihuy](gif/200.webp)
