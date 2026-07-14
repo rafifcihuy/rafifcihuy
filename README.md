@@ -1,5 +1,3 @@
-###
-
 <div align="center">
   <img height="200" width="1000" src="gif/night.gif"  />
 </div>
