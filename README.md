@@ -1,6 +1,7 @@
-![headmaster](https://i.pinimg.com/originals/05/18/45/0518454baa3f4150570bd421f6b8ceee.gif)
+<img align="center" alt="Coding" widtheight="200" width="1000"  src="https://i.pinimg.com/originals/05/18/45/0518454baa3f4150570bd421f6b8ceee.gif">
 <h1 align="center">Yah0oo 👋🏻 ,I'm Rafif</h1>
 <h3 align="center">Full Stack Web Developer & software engineer 👾</h3>
+
 
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif">
@@ -15,7 +16,7 @@
 - 🍄 I like Anime And Games  
 **I really like also really like things about Japan ⛩️**
 
-<img align="right" alt="Coding" width="70" src="gif/28fu3vahl5tf1.gif">
+<!-- <img align="right" alt="Coding" width="70" src="gif/28fu3vahl5tf1.gif"> -->
 <h3 align="left">Programming Languages :</h3>
 <p - **Programming Languages**  
 
