@@ -14,7 +14,7 @@
 - 😹  And . I really enjoy learning languages and framework like Laravel and Vue.
 
 - 🍄 I like Anime And Games  
-**I really like also really like things about Japan ⛩️**
+**I really like also really like things about Anime & Japan ⛩️**
 
 <!-- <img align="right" alt="Coding" width="70" src="gif/28fu3vahl5tf1.gif"> -->
 <h3 align="left">Programming Languages :</h3>
