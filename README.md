@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" widtheight="200" width="1000"  src="https://i.pinimg.com/originals/05/18/45/0518454baa3f4150570bd421f6b8ceee.gif">
 <h1 align="center">Yah0oo 👋🏻 ,I'm Rafif</h1>
-<h3 align="center">Full Stack Web Developer & software engineer 👾</h3>
+<h3 align="center">Full Stack Web Development  & Software Engineer 👾</h3>
 
 
 
