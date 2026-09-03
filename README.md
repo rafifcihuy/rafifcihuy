@@ -5,18 +5,19 @@
 <!-- IMG Profil-->
  <!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif"> -->
 
-I'am Rafif passionate software engineer with a strong interest in web development. I really enjoy learning languages and framework like Laravel and Vue And I Like playing video games and watching anime.
+Hello, everyone I'am Rafif passionate software engineer with a strong interest in web development. I really enjoy learning languages and framework like Laravel and Vue, attended SMKN 1 Surabaya Vocational School, majoring in software engineering And I Like playing video games mobile or computer and watching anime if you have some free time.
 
 - I’m Muhammad Rafif Al Azhar  **Indonesia, East Java**
-- I"m Studying Computer Science at the University of 17 Agustus 1945 in Surabaya 
-- I’m Web Developer 
+- Age 21 old
+- Studying Computer Science at the University of 17 Agustus 1945 in Surabaya 
+- Web Developer 
 - And . I really enjoy learning languages and framework like Laravel and Vue.
 - I like Anime And Games   
 **I really like also really like things about Anime & Japan ⛩️**
   
 Contact
 - Email : rafif.aja2004@gmail.com
-- LinkedIn : [linkedin.com/in/xxx](https://www.linkedin.com/in/rafif-al-azhar-386a3a3b6/)
+- LinkedIn : [linkedin.com](https://www.linkedin.com/in/rafif-al-azhar-386a3a3b6/)
 - Instagram : https://www.instagram.com/rafif_aja14/
 - Facebook : https://www.facebook.com/rafif.aja14
 
