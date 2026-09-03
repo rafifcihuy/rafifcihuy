@@ -16,10 +16,10 @@ Hello, everyone I'am Rafif passionate software engineer with a strong interest i
 **I really like also really like things about Anime & Japan ⛩️**
   
 Contact
-- Email     : rafif.aja2004@gmail.com
 - LinkedIn  : [linkedin.com](https://www.linkedin.com/in/rafif-al-azhar-386a3a3b6/)
 - Instagram : [rafif_aja14](https://www.instagram.com/rafif_aja14/)
 - Facebook  : [rafif.aja14](https://www.facebook.com/rafif.aja14)
+- Email     : rafif.aja2004@gmail.com
 
 <!-- <img align="right" alt="Coding" width="70" src="gif/28fu3vahl5tf1.gif"> -->
 <h3 align="left">Programming Languages :</h3>
