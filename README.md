@@ -31,6 +31,6 @@ PHP, JAVASCRIPT
 <h3 align="left">Frameworks & Libraries :</h3>
 <p - **Frameworks & Libraries**  
  
-Laravel Bootstrap And Vue.Js
+Laravel, Bootstrap And Vue.Js
 <!-- ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%2342b883.svg?style=for-the-badge&logo=vuedotjs&logoColor=white) [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#) -->
 </p>
