@@ -2,7 +2,7 @@
 <h1 align="center">Yah0oo 👋🏻 ,I'm Rafif</h1>
 <h3 align="center">Web Developer</h3> 
 
-<!-- IMG Profil -->
+<!-- IMG Profil  -->
  <!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif"> -->
 
 Hello, everyone I'am Rafif passionate software engineer with a strong interest in web development. I really enjoy learning languages and framework like Laravel and Vue, attended SMKN 1 Surabaya Vocational School, majoring in software engineering And I Like playing video games mobile or computer and watching anime if you have some free time.
