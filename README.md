@@ -9,9 +9,9 @@ Hello, everyone I'am Rafif passionate software engineer with a strong interest i
 
 - I’m Muhammad Rafif Al Azhar  **Indonesia, East Java**
 - Age 21 old
-- Studying Computer Science at the University of 17 Agustus 1945 in Surabaya 
-- Web Developer 
-- And . I really enjoy learning languages and framework like Laravel and Vue Js.
+- Studying Computer Science at the **University of 17 Agustus 1945 in Surabaya**
+- Full Stack Web Developer 
+- And . I really enjoy learning languages and framework like **Laravel** and **Vue Js.**
 - I like Anime And Games   
 **I really like also really like things about Anime & Japan ⛩️**
   
