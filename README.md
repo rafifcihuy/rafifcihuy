@@ -25,12 +25,12 @@ Contact
 <h3 align="left">Programming Languages :</h3>
 <p - **Programming Languages**  
  
-PHP, JAVASCRIPT
+![Programming Languages](https://skillicons.dev/icons?i=php,js,html,css,java)
 <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) -->
 </p>
 <h3 align="left">Frameworks & Libraries :</h3>
 <p - **Frameworks & Libraries**  
- 
-Laravel, Bootstrap And Vue.Js
+         
+![Frameworks & Libraries](https://skillicons.dev/icons?i=laravel,bootstrap,vue)
 <!-- ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%2342b883.svg?style=for-the-badge&logo=vuedotjs&logoColor=white) [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#) -->
 </p>
