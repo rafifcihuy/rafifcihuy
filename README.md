@@ -15,7 +15,8 @@ Hello, everyone I'am Rafif passionate software engineer with a strong interest i
 - I like Anime And Games 🎮
 **I really like also really like things about Anime & Japan ⛩️**
   
-Contact
+<h3> Contact </h3>
+
 - LinkedIn  : [linkedin.com](https://www.linkedin.com/in/rafif-al-azhar-386a3a3b6/)
 - Instagram : [rafif_aja14](https://www.instagram.com/rafif_aja14/)
 - Facebook  : [rafif.aja14](https://www.facebook.com/rafif.aja14)
@@ -37,8 +38,6 @@ Contact
 ## 📊 GitHub Stats
 
 <div>
-
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rafifcihuy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="31.1%" />
-
 </div>
 
