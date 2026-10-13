@@ -27,7 +27,7 @@ Hello, everyone I'am Rafif passionate software engineer with a strong interest i
 <h3 align="left">Programming Languages :</h3>
 <p - **Programming Languages**  
  
-![Programming Languages](https://skillicons.dev/icons?i=php,js,html,css,java)
+![Programming Languages](https://skillicons.dev/icons?i=php,js,html,css,java,c)
 </p>
 <h3 align="left">Frameworks & Libraries :</h3>
 <p - **Frameworks & Libraries**  
